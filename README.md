@@ -2,12 +2,12 @@
 
 - Small online shop I built using MySQL, Express, React and Node. Browse through the collection of products, search, filter, add products to the cart and more! 
 
-![Demo image](demo-image.PNG);
+![Demo image](demo-image.png);
 
 # What I used to build the project
 
 * React.js
+* Material UI (https://material-ui.com/)
 * HTML
-* SCSS
 * Axios
-* OMDB API (http://www.omdbapi.com/)
+
